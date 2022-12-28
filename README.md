@@ -1,3 +1,3 @@
 # rust-book
 
-## exercises taken from the Rust-book ("https://rust-book.cs.brown.edu/title-page.html") for language training
+## Exercises taken from the Rust-book ("https://rust-book.cs.brown.edu/title-page.html") for language training
